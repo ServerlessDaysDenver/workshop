@@ -18,5 +18,3 @@ This project uses a mix of Express (`./api`) and Next.js (`./app`) to show how y
 
 Once you're up and running, visit the [Ampt Dashboard](https://ampt.dev) to see an overview of your app. Here, you can query data stored with `@ampt/data`, view logs, and more.
 
-
-Testing branch deploys
